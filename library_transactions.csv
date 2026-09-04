@@ -1,0 +1,49 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T001,2026-01-03,U101,The Silent Forest,Fiction,7
+T002,2026-01-05,U102,Python Programming Basics,Technology,14
+T003,2026-01-07,U103,The Silent Forest,Fiction,10
+T004,2026-01-12,U104,World History,History,21
+T005,2026-01-15,U101,Data Science Handbook,Technology,12
+T006,2026-01-18,U105,Mystery of the Moon,Mystery,8
+T007,2026-01-22,U106,The Silent Forest,Fiction,7
+T008,2026-02-02,U107,Python Programming Basics,Technology,15
+T009,2026-02-05,U108,The Great Adventure,Adventure,9
+T010,2026-02-08,U102,Data Science Handbook,Technology,18
+T011,2026-02-12,U109,World History,History,20
+T012,2026-02-14,U110,Mystery of the Moon,Mystery,6
+T013,2026-02-16,U101,The Silent Forest,Fiction,11
+T014,2026-02-20,U103,Python Programming Basics,Technology,10
+T015,2026-02-25,U104,The Great Adventure,Adventure,14
+T016,2026-03-01,U105,Data Science Handbook,Technology,16
+T017,2026-03-03,U106,The Silent Forest,Fiction,8
+T018,2026-03-05,U107,Mystery of the Moon,Mystery,12
+T019,2026-03-08,U108,World History,History,17
+T020,2026-03-10,U109,Python Programming Basics,Technology,13
+T021,2026-03-14,U110,The Silent Forest,Fiction,9
+T022,2026-03-18,U101,The Great Adventure,Adventure,7
+T023,2026-03-21,U102,Data Science Handbook,Technology,20
+T024,2026-03-25,U103,Mystery of the Moon,Mystery,5
+T025,2026-04-02,U104,The Silent Forest,Fiction,12
+T026,2026-04-05,U105,Python Programming Basics,Technology,11
+T027,2026-04-09,U106,World History,History,19
+T028,2026-04-12,U107,The Great Adventure,Adventure,10
+T029,2026-04-15,U108,Data Science Handbook,Technology,15
+T030,2026-04-18,U109,The Silent Forest,Fiction,8
+T031,2026-04-22,U110,Mystery of the Moon,Mystery,9
+T032,2026-04-25,U101,Python Programming Basics,Technology,14
+T033,2026-05-01,U102,The Silent Forest,Fiction,7
+T034,2026-05-04,U103,World History,History,22
+T035,2026-05-08,U104,Data Science Handbook,Technology,18
+T036,2026-05-11,U105,The Great Adventure,Adventure,11
+T037,2026-05-15,U106,Python Programming Basics,Technology,12
+T038,2026-05-18,U107,The Silent Forest,Fiction,10
+T039,2026-05-22,U108,Mystery of the Moon,Mystery,7
+T040,2026-05-25,U109,Data Science Handbook,Technology,16
+T041,2026-06-02,U110,World History,History,20
+T042,2026-06-05,U101,The Silent Forest,Fiction,9
+T043,2026-06-08,U102,Python Programming Basics,Technology,13
+T044,2026-06-12,U103,The Great Adventure,Adventure,8
+T045,2026-06-15,U104,Data Science Handbook,Technology,17
+T046,2026-06-18,U105,Mystery of the Moon,Mystery,10
+T047,2026-06-22,U106,The Silent Forest,Fiction,11
+T048,2026-06-25,U107,World History,History,21
