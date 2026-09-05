@@ -350,3 +350,25 @@ INSIGHT
 ```
 
 **E-Library Data Insights Dashboard** provides an end-to-end foundation for converting raw library transaction data into useful analytical insights with Python.
+
+# 👨‍💻 Author
+
+**Name:** Armin Khareghat
+
+**Course:** Python Programming
+
+**Project:** E-Library Data Insights Dashboard
+
+**Language:** Python
+
+---
+
+# 📄 License
+
+This project is developed for educational and learning purposes only.
+
+---
+
+# ⭐ Thank You
+
+Thank you for using the **E-Library Data Insights Dashboard**.
